@@ -1,0 +1,6 @@
+[submodule "SmartThings-Smart-Kettle-Example-ESP8266"]
+	path = SmartThings-Smart-Kettle-Example-ESP8266
+	url = https://github.com/flisoch/SmartThings-Smart-Kettle-Example-ESP8266.git
+[submodule "SmartThings-Smart-Kettle-Example-esp32"]
+	path = SmartThings-Smart-Kettle-Example-esp32
+	url = https://github.com/flisoch/SmartThings-Smart-Kettle-Example-esp32.git
