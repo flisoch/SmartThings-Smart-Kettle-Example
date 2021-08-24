@@ -1,4 +1,11 @@
-# About
-This repository refers to 2 projects which implement functionality of "Smart Kettle" with Samsung SmartThings ecosystem integration. The first project is created for esp8266 wi-fi module without temperature sensor. The second is for esp32 with the ds18B20 temperature sensor.
 
-ESP8266 project is described in [the tutorial](https://habr.com/ru/company/samsung/blog/573514/) on the habr.com 
+# Проект "Умный чайник"
+Этот репозиторий ссылается на 2 репозитория, которые содержат код прошивки "Умного чайника" с интеграцией с Samsung SmartThings. 
+
+Первый проект создан под esp8266 без датчика температуры. В [туториале](https://habr.com/ru/company/samsung/blog/573514/) на Хабре описано, как создать такой проект.
+
+Второй проект создан под esp32 с датчиком температуры ds18B20.
+
+# Как пользоваться этим репозиторием
+Этот репозиторий - общее место для двух репозиториев, которые используются здесь как подмодули/submodules гита. Рекомендую не клонировать этот репозиторий, а переходить в нужный и использовать уже его. 
+
